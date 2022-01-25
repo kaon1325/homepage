@@ -3,7 +3,7 @@
 
 <body>
 
-
+<h1> 타텟의 바람의나라 </h1>
   <div id="sidebar-a">
     <div class="padding">
       <ul id="menu">
@@ -14,12 +14,9 @@
         <li><a href="https://gamewinds.co.kr/upbringing/27">전문직업 단계업 정보</a></li>
       </ul>
     </div>
-    <div id="hrgreen"></div>
-    <p> 바람의나라 정보 </p>
-  </div>
+   
   <div id="content">
-    <div class="padding">
-      <h1> 타텟의 바람의나라 </h1>
+    <div class="padding">      
       <h2><a href="#">요강 사용법</a></h2>
       <br />
 <p>
