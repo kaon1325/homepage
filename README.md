@@ -327,19 +327,11 @@
 
 <p>
 <h1> 각종 정보 </h1>
-      <p class="date"><img src="images/comment.gif" alt="" />
-    </div>
-  </div>
-  <div id="prefooter"> <br /> <br />
-     <a        href   =   "https://gamewinds.co.kr/upbringing/173">   무자본 정보   </a>
+  <a        href   =   "https://gamewinds.co.kr/upbringing/173">   무자본 정보   </a>
 <br/>
 <br/>
      <a        href   =   "https://docs.google.com/spreadsheets/d/1_CP08IZ8rRL9FtefsAVkOz1ZNWlL8ORh2FDRI_g4CWc/edit?usp=sharing">  바람의나라  경험치 표   </a>
     <p><a href= "https://xoxd.tistory.com/category/%EB%B0%94%EB%9E%8C%EC%9D%98%EB%82%98%EB%9D%BC%20%EA%B4%B4%EC%9C%A0%20%EC%A0%95%EB%B3%B4 ">바람의나라 패치 미리보기 </a></p>
-  </div>
-  <div id="footer"> 
-
-</div>
-</div>
+  </p>
 </body>
 </html>
