@@ -39,7 +39,7 @@
   </div>
   <div id="content">
     <div class="padding">
-      <h2><a href="#">요강 사용법</a></h2>
+      <h2><a >요강 사용법</a></h2>
       <br />
 <p>
       요강 3개 합치기 가능<br/>
