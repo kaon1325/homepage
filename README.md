@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>타텟@연 의 바람의나라 정보</title>
+<h1> 타텟의 바람의나라 </h1>
 <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
 <style type="text/css" media="all">
 @import "images/style.css";
