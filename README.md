@@ -327,8 +327,6 @@
 <h1> 각종 정보 </h1>
 <p>
 -----------------------------------
-</p>
-</p>
       <p class="date"><img src="images/comment.gif" alt="" />
     </div>
   </div>
