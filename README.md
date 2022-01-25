@@ -340,11 +340,7 @@
     <p><a href= "https://xoxd.tistory.com/category/%EB%B0%94%EB%9E%8C%EC%9D%98%EB%82%98%EB%9D%BC%20%EA%B4%B4%EC%9C%A0%20%EC%A0%95%EB%B3%B4 ">바람의나라 패치 미리보기 </a></p>
   </div>
   <div id="footer"> 
-<a href="#">아 </a>| 
-<a href="#">무</a>| 
-<a href="#">것</a> |
-<a href="#">도</a> | 
-<a href="#">X</a> |
+
 </div>
 </div>
 </body>
