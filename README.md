@@ -35,7 +35,7 @@
       </ul>
     </div>
     <div id="hrgreen"></div>
-    <p> 바람의나라 정보 </p>
+
   </div>
   <div id="content">
     <div class="padding">
