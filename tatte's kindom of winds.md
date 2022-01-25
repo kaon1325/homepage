@@ -1,9 +1,10 @@
 
+
+<html>
 <head>
-
-<body>
-
 <h1> 타텟의 바람의나라 </h1>
+
+
   <div id="sidebar-a">
     <div class="padding">
       <ul id="menu">
@@ -14,10 +15,12 @@
         <li><a href="https://gamewinds.co.kr/upbringing/27">전문직업 단계업 정보</a></li>
       </ul>
     </div>
-   
+    <div id="hrgreen"></div>
+
+  </div>
   <div id="content">
-    <div class="padding">      
-      <h2><a href="#">요강 사용법</a></h2>
+    <div class="padding">
+      <h2><a >요강 사용법</a></h2>
       <br />
 <p>
       요강 3개 합치기 가능<br/>
@@ -330,7 +333,8 @@
      <a        href   =   "https://docs.google.com/spreadsheets/d/1_CP08IZ8rRL9FtefsAVkOz1ZNWlL8ORh2FDRI_g4CWc/edit?usp=sharing">  바람의나라  경험치 표   </a>
     <p><a href= "https://xoxd.tistory.com/category/%EB%B0%94%EB%9E%8C%EC%9D%98%EB%82%98%EB%9D%BC%20%EA%B4%B4%EC%9C%A0%20%EC%A0%95%EB%B3%B4 ">바람의나라 패치 미리보기 </a></p>
   </p>
-</div>
-</div>
-</body>
-
+  
+  
+  
+  
+  
