@@ -4,7 +4,7 @@
 <title>타텟@연 의 바람의나라 정보</title>
 <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
 <style type="text/css" media="all">
-@import "images/style.css";
+@import "homepage/images/style.css";
 </style>
 </head>
 <body>
