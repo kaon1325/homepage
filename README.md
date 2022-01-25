@@ -333,12 +333,5 @@
     <p><a href= "https://xoxd.tistory.com/category/%EB%B0%94%EB%9E%8C%EC%9D%98%EB%82%98%EB%9D%BC%20%EA%B4%B4%EC%9C%A0%20%EC%A0%95%EB%B3%B4 ">바람의나라 패치 미리보기 </a></p>
   </p>
   
-  <div class="searchOptions bottomPanelBorder" {$srchOpt_attrs}>
-	<!-- Search panel content -->
-	<div class="srchCritTop" style="display: none;">
-		<span class="runner-btnleft"></span>
-		<span class="runner-btnright"></span>
-		<a href="#" id="showHideSearchType{$id}" class="runner-button" {$showHideCtrlsOpt_attrs}>{$showHideOpt_mess}</a>
-  
 </body>
 </html>
