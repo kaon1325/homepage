@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <h1> 타텟의 바람의나라 </h1>
