@@ -2,27 +2,7 @@
 <html>
 <head>
 <h1> 타텟의 바람의나라 </h1>
-<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
-<style type="text/css" media="all">
-@import "images/style.css";
-</style>
-</head>
-<body>
-<div id="page-container">
-  <div id="top"> <a href="#">캐릭터 검색창</a>
 
-<div style = "padding: 15px 1px 2px 3px;">  
-
-        <form action="https://baram.nexon.com/Profile/Info">
-            <div class="search">
-              <input type="text" name="character" value ="닉네임@서버"  > 
-                <button type="submit">검색</button>
-
-
-
-    </div>
-  </div>
-</div>
 
   <div id="sidebar-a">
     <div class="padding">
